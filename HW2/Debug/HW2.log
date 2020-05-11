@@ -1,0 +1,18 @@
+﻿  homework11.cpp
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(326,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(404,22): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(412,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(424,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(455,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(467,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(554,25): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(700,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(740,21): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(832,22): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(839,10): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(862,20): warning C4018:  “<”: 有符号/无符号不匹配
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(952,62): warning C4244:  “+=”: 从“float”转换到“long”，可能丢失数据
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(957,62): warning C4244:  “+=”: 从“float”转换到“long”，可能丢失数据
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(184): warning C4715:  “Camps::WhetherInCamps”: 不是所有的控件路径都返回值
+G:\学校-研究生\CSCI561\HW2\HW2\HW2\homework11.cpp(538): warning C4715:  “Player::IsAwayPlayerCamp”: 不是所有的控件路径都返回值
+  HW2.vcxproj -> G:\学校-研究生\CSCI561\HW2\HW2\Debug\HW2.exe
